@@ -1,0 +1,9 @@
+{
+	"name": "AzureDataPipelineFactory",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc487830-aa62-4ad2-8402-0811f6d7d38e",
+		"tenantId": "ce15666a-8541-44e3-9cfa-02347e92e8cc"
+	}
+}
