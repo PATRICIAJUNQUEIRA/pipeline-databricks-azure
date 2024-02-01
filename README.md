@@ -54,8 +54,4 @@ A imagem acima representa a arquitetura geral do projeto, destacando a interaç�
 4. Faça o push para a branch: `git push origin feature-nova`.
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto é distribuído sob a licença [MIT](LICENSE).
-
 **Dúvidas ou Sugestões?** Sinta-se à vontade para abrir uma issue ou entrar em contato. Seu feedback é muito bem-vindo!
