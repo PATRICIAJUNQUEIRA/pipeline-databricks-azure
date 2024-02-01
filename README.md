@@ -29,6 +29,23 @@ Este projeto tem como objetivo criar e automatizar uma pipeline de dados no ambi
 
 A imagem acima representa a arquitetura geral do projeto, destacando a interação entre os diferentes serviços na nuvem Azure, o fluxo de dados entre as camadas e a trigger configurada para execução periódica.
 
+## Detalhes da Trigger e Funcionalidades do Pipeline
+
+- **Trigger a Cada Hora:**
+  - A pipeline é acionada automaticamente a cada hora, garantindo atualizações frequentes e regulares no banco de dados de imóveis.
+
+- **Funcionalidades do Pipeline:**
+  - **Unbound:**
+    - Captura e ingestão de dados brutos.
+  
+  - **Silver:**
+    - Processamento e transformação dos dados brutos.
+    - Padronização e limpeza dos dados.
+
+  - **Gold:**
+    - Modelagem e estruturação final dos dados.
+    - Preparação dos dados para análises avançadas.
+
 ## Como Contribuir
 
 1. Faça um fork do repositório.
